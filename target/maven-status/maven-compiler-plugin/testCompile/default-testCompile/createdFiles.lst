@@ -1,0 +1,7 @@
+POJO\TagPOJO.class
+POJO\CategoryPOJO.class
+POJO\UserPOJO.class
+com\api\tests\UserApi.class
+POJO\PetPOJO.class
+com\api\tests\OrderApi.class
+com\api\tests\PetApi.class
